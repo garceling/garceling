@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @garceling
-- 👀 I’m interested in machine learning and AI
-- 🌱 I’m currently learning opencv 
 - 💞️ I’m looking to collaborate on anything :)
-- 📫 How to reach me gracex@hhotmail.ca
+- 📫 How to reach me gracex@hotmail.ca
 
 <!---
 garceling/garceling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
