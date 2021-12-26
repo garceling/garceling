@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garceling
-- 💞️ I’m looking to collaborate on anything :)
-- 📫 How to reach me gracex@hotmail.ca
+- 💞️ Please check out my youtube channel:https://www.youtube.com/channel/UCPlqYOvOH9k-q4rNyBo67lQ
+- 📫 Feel free to reach me at: gracex@hotmail.ca
 
 <!---
 garceling/garceling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
