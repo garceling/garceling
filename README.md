@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @garceling
+- 👋 Hi, I’m Grace Xing. I am in second year Electrical Eng at McMaster University
 - 💞️ Please check out my youtube channel:https://www.youtube.com/channel/UCPlqYOvOH9k-q4rNyBo67lQ
 - 📫 Feel free to reach me at: gracex@hotmail.ca
 
