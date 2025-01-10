@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Grace Xing. I am in my third year of Electrical Eng at McMaster University
+- 👋 Hi, I’m Grace Xing. I am in my fourth and final year of Electrical Eng at McMaster University
 - 💞️ Please check out my youtube channel: https://youtube.com/@garceling
 - 📫 Feel free to reach me at: gracex@hotmail.ca
 
